@@ -32,7 +32,8 @@ Python
 
 ### Feature Engineering
 - For the purpose of our analysis, we needed to extract some interactive features from the dataset. One of which was TotalAmt, which is the multiplication of the Price and Quantity columns.
-- Another feature I was interested in looking at was the month at which each transaction took place. To do this, I extracted the month name from our Date column.
+- Another feature I was interested in looking at was the month in which each transaction took place. To do this, I extracted the month name from our Date column.
 
 ### Data Exploration
-
+- Once the cleaning and feature engineering process had been settled, I proceeded to query the data to get some business insights that can arm stakeholders with the necessary data-backed knowledge to make positive decisions that would impact the growth of the business.
+- First, I   
