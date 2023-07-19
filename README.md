@@ -34,6 +34,11 @@ Python
 - For the purpose of our analysis, we needed to extract some interactive features from the dataset. One of which was TotalAmt, which is the multiplication of the Price and Quantity columns.
 - Another feature I was interested in looking at was the month in which each transaction took place. To do this, I extracted the month name from our Date column.
 
-### Data Exploration
+### Data Exploration & Visualization
 - Once the cleaning and feature engineering process had been settled, I proceeded to query the data to get some business insights that can arm stakeholders with the necessary data-backed knowledge to make positive decisions that would impact the growth of the business.
-- First, I   
+
+#### Top-Selling Products
+- First, I analyzed the top 10 grossing products out of 3,768 products sold within the time period of the dataset (01/12/2018 - 09/12/2019)
+
+![total_amt_sold_per_product](https://github.com/txs7n/Retail-Business-Sales-Data-Analysis/assets/118135226/1ddc4ddf-fccc-44fc-9812-b9b1fa0bb0b8)
+  
