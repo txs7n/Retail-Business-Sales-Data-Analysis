@@ -41,4 +41,21 @@ Python
 - First, I analyzed the top 10 grossing products out of 3,768 products sold within the time period of the dataset (01/12/2018 - 09/12/2019)
 
 ![total_amt_sold_per_product](https://github.com/txs7n/Retail-Business-Sales-Data-Analysis/assets/118135226/1ddc4ddf-fccc-44fc-9812-b9b1fa0bb0b8)
-  
+
+#### Frequently Sold Products
+- The top-selling products do not tell the full story, because while the above graph represents the top-grossing products for our store, it could mean this was as a result of huge one-time purchases. Which was investigated and found to be true. So, I decided to also analyze the most frequently sold products as well.
+
+![most_freq_sold_products](https://github.com/txs7n/Retail-Business-Sales-Data-Analysis/assets/118135226/294571b6-0081-4102-880a-0121b08da474)
+
+- So even though 'Medium ceramic top storage jar' is the most sold by total amount, 'Cream Hanging Heart T-Light Holder' is the most frequently sold.
+
+#### Top Sales Month 
+- I also analyzed the top sales month and as expected, the holiday months ranked high
+
+![total_amt_sold_per_month](https://github.com/txs7n/Retail-Business-Sales-Data-Analysis/assets/118135226/29186bb0-7c5f-45a8-9918-1abdb6fb2f35)
+
+#### Top Sales by Country
+- From our analysis, we see that most of the company's sales came from them United Kingdom.
+
+![total_amt_sold_per_country](https://github.com/txs7n/Retail-Business-Sales-Data-Analysis/assets/118135226/82bdb1af-cbca-42b7-895b-ae51e1ba64ae)
+
